@@ -1,6 +1,6 @@
 name: LibraryOfTruth
 favicon: null
-layout_spectrum: 0.704028218286112
+layout_spectrum: 0.69287
 typography_spectrum: 0.7955949411261827
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.07197537273168564
+    - '#282826'
+    - '#ffffff'
+    - '#5e6555'
+    - '#ada9a6'
+    - '#9c7d44'
+  brandStrength: 0.375
   lightness: 0.15513236913830042
   saturation: 0.543351300060749
   rhythmicContrast: 0.6818215935491025
